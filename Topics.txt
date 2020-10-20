@@ -1,0 +1,10 @@
+Reference Code
+https://github.com/codingforentrepreneurs/30-Days-of-Python
+
+
+Numbers, Variables and Strings
+youtube.com/watch?v=pLniTMTW0vE
+
+
+Lists & Dictionaries
+https://www.youtube.com/watch?v=NqacT1CjkmQ
